@@ -1,4 +1,4 @@
-public class SeatworkSeven {
+public class Main {
 
 public static void main(String args[]) {
 
