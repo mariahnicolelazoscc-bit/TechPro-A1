@@ -1,7 +1,7 @@
 //4
 //Mas simpleng example ng exception handling. (Unexpected error na naeencounter sa isang program)
 
-(Unexpected error na naeencounter sa isang program)
+//(Unexpected error na naeencounter sa isang program)
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
